@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>TR elements define table rows</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>Ram</td>
+    <td>Shyam</td>
+    <td>Lakhan</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>23</td>
+    <td>24</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
