@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>I Am Normal</p>
+<p style="color:green;">I Am Green</p>
+<p style="color:blue;">I Am Blue</p>
+<p style="font-size:100px;">I Am Big</p>
+
+</body>
+</html>
+
