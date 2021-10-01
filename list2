@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>A Description List</h2>
+
+<dl>
+  <dt>Apple</dt>
+  <dd>- Red Pink Apple</dd>
+  <dt>Banana</dt>
+  <dd>- Yellow sweet Banana</dd>
+</dl>
+
+</body>
+</html>
+
+
