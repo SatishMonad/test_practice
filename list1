@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An Unordered HTML List</h2>
+
+<ul>
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Cherry</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Cherry</li>
+</ol> 
+
+</body>
+</html>
+
