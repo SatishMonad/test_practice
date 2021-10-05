@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+
+table {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<h2>Full-width Table</h2>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+  </tr>
+  <tr>
+    <td>Satish</td>
+    <td>Patidar</td>
+  </tr>
+  <tr>
+    <td>Ashish</td>
+    <td>Pawar</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+

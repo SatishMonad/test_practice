@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+[class|=top] {
+  background: skyblue;
+}
+</style>
+</head>
+<body>
+
+<h2>CSS [attribute|="value"] Selector</h2>
+
+<h1 class="top-header">Welcome Satish</h1>
+<p class="top-text">Satish Patidar</p>
+<p class="topcontent">Are you learning CSS?</p>
+
+</body>
+</html>
